@@ -1,0 +1,12 @@
+# by CUPcqkeee
+
+herobrine-npc-id: 1 # ID НПС
+npc-disappear-sound: ENTITY_ENDERMAN_DEATH # Звук при деспавне НПС
+npc-disappear-particle: SMOKE_NORMAL # Партиклы при деспавне НПС
+particle-type-appear: FLAME
+eventDuration: 60 # В секундах время ивента
+event-chance: 50 # Шанс начала ивента в процентах
+action-bar-messages: # Сообщения в ActionBar
+  - "тест1"
+  - "тест2"
+  - "тест3"

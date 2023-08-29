@@ -1,0 +1,12 @@
+name: HeroEvent
+version: '1.0'
+main: me.cupcqkeee.heroevent.HeroEvent
+api-version: '1.20'
+author: CUPcqkeee
+commands:
+  hstart:
+    usage: /<command>
+    description: start event
+  reloadconfig:
+    usage: /<command>
+    description: reload configuration file
